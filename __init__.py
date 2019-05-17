@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#-*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 ##################################################################################
 # MIT License                                                                    #
 # Copyright (c) 2019 XploitsR                                                    #
@@ -135,4 +135,3 @@ class XRSmtp:
       smtp_servers.append("Rediff")
       smtp_servers.append("Rediff Pro")
       return smtp_servers
-
